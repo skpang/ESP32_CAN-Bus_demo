@@ -5,7 +5,7 @@
  * v1.0 March 2020
  * 
  * For use with ESP-32 CAN-Bus board
- * http://skpang.co.uk/catalog/esp32-canbus-board-p-1586.html
+ * [http://skpang.co.uk/catalog/esp32-canbus-board-p-1586.html](https://www.skpang.co.uk/products/esp32-can-bus-board)
  * 
  */
  
